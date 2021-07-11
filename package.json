@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "env-cmd -f ./.env.dev nodemon src/index.js",
     "start": "node src/index.js",
+    "deploy": "git push heroku main",
     "test": "env-cmd -f ./.env.test jest --watch --runInBand"
   },
   "jest": {

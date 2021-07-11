@@ -5,8 +5,6 @@ const Logger = require('../logger/logger');
 
 const { products } = require('../data/project-1/data');
 
-let project1Requests = 0;
-
 // Gets all products
 router.get('/project-1/products', async (req, res) => {
   try {
@@ -17,4 +15,4 @@ router.get('/project-1/products', async (req, res) => {
   }
 });
 
-module.exports = { router, project1Requests };
+module.exports = { router };
