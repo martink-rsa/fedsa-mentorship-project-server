@@ -13,7 +13,7 @@
   },
   "keywords": [],
   "author": "martin@fedsa.org",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@types/jest": "^26.0.20",
     "chalk": "^4.1.0",
