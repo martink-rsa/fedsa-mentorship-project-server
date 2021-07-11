@@ -1,0 +1,6 @@
+#  Environment files
+.env*
+!.env*template
+
+# Basic exclusions
+node_modules

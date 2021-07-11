@@ -1,0 +1,77 @@
+// The products are based on a high-end furniture store
+const products = [
+  {
+    id: 0,
+    title: 'Product 0',
+    description: 'This is a chair',
+    price: 20.0,
+    discountedPrice: 15.0,
+    image: 'www.image.com',
+  },
+  {
+    id: 1,
+    title: 'Product 0',
+    description: 'This is a chair',
+    price: 20.0,
+    discountedPrice: 15.0,
+    image: 'www.image.com',
+  },
+  {
+    id: 2,
+    title: 'Product 0',
+    description: 'This is a chair',
+    price: 20.0,
+    discountedPrice: 15.0,
+    image: 'www.image.com',
+  },
+  {
+    id: 3,
+    title: 'Product 0',
+    description: 'This is a chair',
+    price: 20.0,
+    discountedPrice: 15.0,
+    image: 'www.image.com',
+  },
+  {
+    id: 4,
+    title: 'Product 0',
+    description: 'This is a chair',
+    price: 20.0,
+    discountedPrice: 15.0,
+    image: 'www.image.com',
+  },
+  {
+    id: 5,
+    title: 'Product 0',
+    description: 'This is a chair',
+    price: 20.0,
+    discountedPrice: 15.0,
+    image: 'www.image.com',
+  },
+  {
+    id: 6,
+    title: 'Product 0',
+    description: 'This is a chair',
+    price: 20.0,
+    discountedPrice: 15.0,
+    image: 'www.image.com',
+  },
+  {
+    id: 7,
+    title: 'Product 0',
+    description: 'This is a chair',
+    price: 20.0,
+    discountedPrice: 15.0,
+    image: 'www.image.com',
+  },
+  {
+    id: 8,
+    title: 'Product 0',
+    description: 'This is a chair',
+    price: 20.0,
+    discountedPrice: 15.0,
+    image: 'www.image.com',
+  },
+];
+
+module.exports = { products };
