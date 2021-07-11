@@ -19,3 +19,5 @@ Alternatively, you could run the server in development mode which will also watc
 `npm run test`
 
 ## [TODO: DEPLOY]
+
+You will need the Heroku CLI: https://devcenter.heroku.com/articles/heroku-cli
